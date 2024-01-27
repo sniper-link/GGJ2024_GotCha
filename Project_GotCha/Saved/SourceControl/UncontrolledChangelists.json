@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/iferraz/OneDrive - University of Silicon Valley/Documents/GitHub/GGJ2024_GotCha/Project_GotCha/Content/GotCha/BP_Player_GotCha.uasset",
+				"C:/Users/iferraz/OneDrive - University of Silicon Valley/Documents/GitHub/GGJ2024_GotCha/Project_GotCha/Content/Systems/wep1.uasset",
+				"C:/Users/iferraz/OneDrive - University of Silicon Valley/Documents/GitHub/GGJ2024_GotCha/Project_GotCha/Content/Systems/Gacha.uasset",
+				"C:/Users/iferraz/OneDrive - University of Silicon Valley/Documents/GitHub/GGJ2024_GotCha/Project_GotCha/Content/Systems/GameMaster.uasset",
+				"C:/Users/iferraz/OneDrive - University of Silicon Valley/Documents/GitHub/GGJ2024_GotCha/Project_GotCha/Content/GotCha/Level_Main.umap",
+				"C:/Users/iferraz/OneDrive - University of Silicon Valley/Documents/GitHub/GGJ2024_GotCha/Project_GotCha/Content/Systems/Weapons.uasset",
 				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/Level_Main.umap",
 				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/BP_ThirdPersonCharacter1.uasset",
 				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/BP_ThirdPersonGameMode1.uasset",
