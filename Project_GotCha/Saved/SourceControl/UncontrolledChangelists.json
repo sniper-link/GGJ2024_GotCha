@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/Level_Main.umap",
+				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/BP_ThirdPersonCharacter1.uasset",
+				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/BP_ThirdPersonGameMode1.uasset",
+				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/BP_GotCha.uasset",
+				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/BP_Player_GotCha.uasset",
+				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/BP_GameMode_GotCha.uasset",
+				"C:/Users/Water VR/Desktop/GGJ2024_GotCha/Project_GotCha/Content/GotCha/Level_Main_BuiltData.uasset",
 				"C:/Users/Water VR/Desktop/Project_GotCha/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
